@@ -1,2 +1,2 @@
-# katextra.github.io
+# katextra
 Kate Mobile Mod
